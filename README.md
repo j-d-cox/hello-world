@@ -1,2 +1,4 @@
 # hello-world
-Test repository
+Test repository.
+
+Just running throught the tutorial for github.
